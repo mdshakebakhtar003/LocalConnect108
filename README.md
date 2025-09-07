@@ -43,18 +43,14 @@ LocalConnect is a full-stack mobile application designed to seamlessly connect c
 ## 📹 App Demonstration
 
 ### 🙋‍♂️ User Side
-<video width="100%" controls>
-  <source src="https://github.com/mdshakebakhtar003/LocalConnect108/raw/main/assets/videos/user.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+[![User Side Demo](http://img.youtube.com/vi/Xujx9nzWqLc/0.jpg)](https://youtu.be/Xujx9nzWqLc?si=uhuKY-qWkJKed3Ji)
 
 ---
 
 ### 🛠️ Worker Side
-<video width="100%" controls>
-  <source src="https://github.com/mdshakebakhtar003/LocalConnect108/raw/main/assets/videos/worker.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+[![Worker Side Demo](http://img.youtube.com/vi/i9o1-sOnt58/0.jpg)](https://youtube.com/shorts/i9o1-sOnt58?si=XWxyO3RzvWPuKbYJ)
 
 ---
 
